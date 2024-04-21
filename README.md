@@ -4,13 +4,14 @@
 This project consists of Solidity smart contracts designed to implement ERC6551 token-bound accounts on the Arbitrum Sepolia network. The core components include the ERC6551 registry, ERC6551 Simple Account Implementation, and a test ERC721 contract named ScalingETHNFT. All contracts have been deployed to the Arbitrum Sepolia network and are verified.
 
 ## Contracts and Their Addresses
-ERC6551 Registry:
+### ERC6551 Registry:
 Address: 0xDfD8627F20D87060A702797020919c1154A9B826
-ERC6551 Simple Account Implementation:
+### ERC6551 Simple Account Implementation:
 Address: 0x935b144A8F885a12e051Ae8fd3d5744317c5E92F
-ScalingETHNFT (Test ERC721):
+### ScalingETHNFT (Test ERC721):
 Address: 0xe45C86CD28F657cbd74f47ceD2E31895374de346
-Usage
+
+## Usage
 The primary functionality demonstrated by this project is the creation of token-bound accounts associated with ERC721 non-fungible tokens (NFTs). Below is a high-level overview of the process:
 
 ## Minting an NFT:
